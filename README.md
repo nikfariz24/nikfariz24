@@ -3,7 +3,7 @@
 <h2>👨‍💻 Network and Security Projects:</h2>
 
 - <b>Small Office / Branches Network Design</b>
-  - [Deploying common and small office / branches network](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(link)</b></i>
+  - [Deploying common and small office / branches network](https://github.com/nikfariz24/Network-Small-Office-Network.git) <b><i>(link)</b></i>
   - Port-channel, HSRP, Static Routing, Inter-VLAN, ACL, VLAN Subnetting 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
